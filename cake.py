@@ -7,7 +7,7 @@ def getCylinderVolume(radius, height) :
 x = getCylinderVolume(10, 12)
 y = getCylinderVolume(2, 6)
 print(round(x,4))
-print(round(y,4))
+print(round(y,4)) 
 print(int(x))
 
 def getNumberOfSlices(radius, height, volumeOfSlice) :
